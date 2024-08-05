@@ -5,5 +5,13 @@
 require 'custom.plugins.keymaps'
 require 'custom.plugins.options'
 return {
+  'christoomey/vim-tmux-navigator',
+  require 'custom.plugins.alpha',
+  require 'custom.plugins.nvim-tree',
+  require 'custom.plugins.auto-session',
+  require 'custom.plugins.bufferline',
+  require 'custom.plugins.lualine',
+  require 'custom.plugins.dressing',
+  require 'custom.plugins.vim-maximizer',
   print 'Welcome back daly!',
 }
