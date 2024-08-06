@@ -13,5 +13,7 @@ return {
   require 'custom.plugins.lualine',
   require 'custom.plugins.dressing',
   require 'custom.plugins.vim-maximizer',
+  require 'custom.plugins.nvim-ts-autotag',
+  require 'custom.plugins.lazygit',
   print 'Welcome back daly!',
 }
