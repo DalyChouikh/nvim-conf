@@ -15,5 +15,6 @@ return {
   require 'custom.plugins.vim-maximizer',
   require 'custom.plugins.nvim-ts-autotag',
   require 'custom.plugins.lazygit',
+  require 'custom.plugins.trouble',
   print 'Welcome back daly!',
 }
