@@ -16,5 +16,6 @@ return {
   require 'custom.plugins.nvim-ts-autotag',
   require 'custom.plugins.lazygit',
   require 'custom.plugins.trouble',
+  require 'custom.plugins.formatting',
   print 'Welcome back daly!',
 }
