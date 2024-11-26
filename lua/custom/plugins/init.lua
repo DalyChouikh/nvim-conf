@@ -17,5 +17,6 @@ return {
   require 'custom.plugins.lazygit',
   require 'custom.plugins.trouble',
   require 'custom.plugins.formatting',
+  require 'custom.plugins.colorizer',
   print 'Welcome back daly!',
 }
